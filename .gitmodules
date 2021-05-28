@@ -1,0 +1,3 @@
+[submodule "algorithms/models/pytorch_resnet_cifar10"]
+	path = algorithms/models/pytorch_resnet_cifar10
+	url = https://github.com/akamaster/pytorch_resnet_cifar10
